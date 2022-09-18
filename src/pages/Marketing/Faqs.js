@@ -22,7 +22,6 @@ import Asset190 from "../../assets/images/illustrator/Asset190.svg";
 import Asset189 from "../../assets/images/illustrator/Asset189.svg";
 import Asset192 from "../../assets/images/illustrator/Asset192.svg";
 import Asset187 from "../../assets/images/illustrator/Asset187.svg";
-import faq from "../../assets/images/illustrator/faq.svg";
 
 // Modal Video
 import ModalVideo from "react-modal-video";
@@ -355,9 +354,6 @@ class Faqs extends Component {
                 </div>
               </Col>
 
-              <Col lg="5" md="6" className="mt-4 mt-sm-0 pt-2 pt-sm-0">
-                <img src={faq} alt="" />
-              </Col>
             </Row>
           </Container>
 
