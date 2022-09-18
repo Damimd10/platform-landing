@@ -2,7 +2,6 @@ import React, { Component } from 'react'
 
 //import images
 import illustrator1 from '../../assets/images/illustrator/undraw_crypto.svg'
-import faq from '../../assets/images/illustrator/faq.svg';
 
 import AccordianCommon2 from "../../pages/Travel/AccordianCommon2";
 import { Col, Container, Row } from 'reactstrap';
@@ -52,7 +51,6 @@ export default class Cta extends Component {
                             </Col>
 
                             <Col lg={5} md={6} className="mt-4 mt-sm-0 pt-2 pt-sm-0">
-                                <img src={faq} alt="" />
                             </Col>
                         </Row>
                     </Container>
